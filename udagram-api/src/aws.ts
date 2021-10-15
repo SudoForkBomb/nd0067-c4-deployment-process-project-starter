@@ -33,5 +33,6 @@ export function getPutSignedUrl(key: string): string {
     Bucket: config.aws_media_bucket,
     Key: key,
     Expires: signedUrlExpireSeconds,
+    ContentType: 'application/octet-stream',
   })
 }
