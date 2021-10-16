@@ -2,6 +2,8 @@
 
 # Udagram
 
+[![<SudoForkBomb>](https://circleci.com/gh/SudoForkBomb/nd0067-c4-deployment-process-project-starter.svg?style=svg)](https://circleci.com/gh/SudoForkBomb/nd0067-c4-deployment-process-project-starter)
+
 http://udagram-frontend-taylor.s3-website-us-east-1.amazonaws.com/
 
 The Udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
