@@ -6,7 +6,7 @@ orbs:
 jobs:
   branches:
     only:
-      - main
+      - master
   build:
     docker:
       - image: 'cimg/base:stable'
